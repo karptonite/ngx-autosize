@@ -1,5 +1,5 @@
 {
-  "name": "ngx-autosize-app",
+  "name": "ngx-autosize",
   "version": "1.7.2",
   "homepage": "https://chrum.it/pages/ngx-autosize",
   "description": "Directive that automatically adjusts textarea height to fit content",
